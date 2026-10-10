@@ -39,7 +39,7 @@
 #### Metal photo rectangles
 
 * There is usually a coating that has to be removed before heat pressing
-* Press at 370F for 90 seconds
+* Press at 360F for 90 seconds
 
 #### Mouse pads
 
@@ -61,11 +61,12 @@
 
 ### Printing from Gimp
 
+* You reversed the image, right?
 * Select the "EPSON ET 15000" from the list of printers
   * It might say "unavailable" or so (wait for it to be enabled)
-* There are specific settings to use, as follows
+* There are specific settings you need to use, as follows
   * If these are not present, ensure using specialized print panel not generic
-  * Maybe try restarting printer, relaunching print panel
+  * Maybe try waking/restarting printer, and/or relaunching print panel
 * Page setup
   * Paper
     * Paper type: Matte
@@ -80,10 +81,10 @@
 ### Loading paper
 
 * Load the dye sublimation from rear of printer, logo/watermark down
-  * Path is straight through, image will be on top
+  * Path is straight through, image will be printed on top
 * Initiate print from gimp
 * It may complain about selected paper vs loaded
-  * Assure the printer you want to print using supplied settings
+  * Assure the printer you want to print using the supplied settings
 
 ### Let the print dry a bit before handling it
 
